@@ -1,0 +1,5 @@
+l=int(input("Enter length"))
+b= int(input("Enter breadth : "))
+print("Area of  triange = ", 0.5*l*b)
+print("Area of rectangle", l*b)
+print("Area of  square ", l*l)
